@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer engineering student  from Cuba<br>passionate about learning about science. <br>Powered by coffee and a passion for programming. Dedicated to the craft of building robust and scalable software
+Computer engineering student  from Cuba<br>passionate for learning about science. <br>Powered by coffee and a passion for programming. Dedicated to the craft of building robust and scalable software
 
 
 ## 🌐 Socials:
