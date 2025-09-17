@@ -38,7 +38,6 @@ Computer engineering student  from Cuba<br>passionate for learning about science
 <a href="https://www.mysql.com/products/workbench/" target="_blank"><img src="https://img.shields.io/badge/-mysql_workbench-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.shields.io/badge/-windows-white?logo=windows&logoColor=0078D6&style=for-the-badge" alt="windows"/></a>
 <a href="https://github.com/microsoft/terminal" target="_blank"><img src="https://img.shields.io/badge/-windows_terminal-white?logo=windowsterminal&logoColor=4D4D4D&style=for-the-badge" alt="windowsterminal"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/-ubuntu-white?logo=ubuntu&logoColor=E95420&style=for-the-badge" alt="ubuntu"/></a>
 
 </div>
 
