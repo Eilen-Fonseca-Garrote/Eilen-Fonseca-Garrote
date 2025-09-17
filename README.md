@@ -20,7 +20,6 @@ Computer engineering student  from Cuba, passionate programmer who loves to code
 
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-postgresql-white?logo=postgresql&logoColor=4169E1&style=for-the-badge" alt="postgresql"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-mysql-white?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="mysql"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/-redis*-white?logo=redis&logoColor=DC382D&style=for-the-badge" alt="redis"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/-jest*-white?logo=jest&logoColor=C21325&style=for-the-badge" alt="jest"/></a>
 
 <h3>📲Version Control & CI/CD ⚙️</h3>
