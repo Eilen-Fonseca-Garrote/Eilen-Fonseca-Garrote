@@ -7,11 +7,12 @@ _My name is Eilen😸_ <img src="https://upload.wikimedia.org/wikipedia/commons/
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE1cmZnMG0wN2t2cmZiaW00N241N3Rtc2Nmam5weGtmeGNuMjV2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11oFAvGtSN4wW4/giphy.gif" width="400" height="200" />
 </div>
 
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wRmOK4J2261gI/giphy.gif" width="55"> Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/eilen_fonseca04) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eilen-fonseca-garrote-b46639348?trk=contact-info) [![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://pinterest.com/eilenfonseca) [![X](https://skillicons.dev/icons?i=x)](https://x.com/EilenNeko) [![email](https://skillicons.dev/icons?i=gmail)](mailto:laneko27@gmail.com) <br>
-
 <div align="center">
+<h2> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wRmOK4J2261gI/giphy.gif" width="50"> Socials: </h2>
+    
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/eilen_fonseca04) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eilen-fonseca-garrote-b46639348?trk=contact-info) [![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://pinterest.com/eilenfonseca) [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/EilenNeko) [![email](https://skillicons.dev/icons?i=gmail)](mailto:laneko27@gmail.com) <br>
+
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FpejE5OXZ0NWtrMTVudDV0c3I0bXY0YmZmeHI4ZjE1czYxNW9lcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Pqf31C9P1AuIg/giphy.gif" width="200">
 </div>
 
@@ -27,20 +28,20 @@ _My name is Eilen😸_ <img src="https://upload.wikimedia.org/wikipedia/commons/
 </div>
 
 
-# 📊 GitHub Stats:
+<h2> 📊 GitHub Stats:  </h2> 
+
 ![](https://github-readme-stats.vercel.app/api?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Eilen-Fonseca-Garrote&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uQkKavfX6TER2/giphy.gif" width="250">
 
 ## 🏆 GitHub Trophies
-<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=Eilen-Fonseca-Garrote&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-</div>
 
-<div align="center">
-### 💙Random Dev Quote for u <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+
+
+<h2> 💙Random Dev Quote for u  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>    
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
----
-[![](https://visitcount.itsvg.in/api?id=Eilen-Fonseca-Garrote&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
