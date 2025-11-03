@@ -40,7 +40,7 @@ _My name is Eilen😸_ <img src="https://upload.wikimedia.org/wikipedia/commons/
 
 
 
-<h2> 💙Random Dev Quote for u  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>    
+<h2> 💙Random Dev Quote <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>    
     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
