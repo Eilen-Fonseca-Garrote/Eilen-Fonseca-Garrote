@@ -3,8 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️Games+Enthusiast🎮)
 
 ## _My name is Eilen😸_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="12px"/> <br> 
-## 🐱I´m a computer engineering student from Cuba and a passionate programmer who loves to code and especially analyze problems💚.<br>
-## ☕Powered by coffee and a passion for coding.📈Dedicated to the craft of building robust and scalable software⚛️.
+## 🐱I´m a computer engineering student from Cuba and a passionatep junior dev who loves to code and especially analyze problems💚.<br>
+## _☕Powered by coffee and a passion for coding📈_
+## Dedicated to the craft of building robust and scalable software⚛️.
 <div align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE1cmZnMG0wN2t2cmZiaW00N241N3Rtc2Nmam5weGtmeGNuMjV2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11oFAvGtSN4wW4/giphy.gif" width="400" height="200" />
 </div>
