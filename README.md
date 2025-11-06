@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️Games+Enthusiast🎮)
 
 ## _My name is Eilen😸_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="12px"/> <br> 
-## 🐱I´m a computer engineering student from Cuba at @cujaeredsocial who loves to code and especially analyze problems💙 <br>
+## 🐱I´m a computer engineering student from Cuba who loves to code and especially analyze problems💙 <br>
 ## 👩‍💻I'm working as a junior dev at AICA+
 ## 💌I'm open to collaborate in fullstack web projects and I'm specially interested in GameDev projects🎯
 ## _☕Powered by coffee and a passion for coding📈_
