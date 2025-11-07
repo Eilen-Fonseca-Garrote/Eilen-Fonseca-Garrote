@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<h1>💻Tech Stack  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"</h1>
+<h1>💻Tech Stack  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65"</h1>
 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,ruby,py,php" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,github,git,gitlab" /><br>
