@@ -22,8 +22,7 @@
 </div>
 
 <div align="center">
-<h1>💻Tech Stack </h1>
-
+<h1>💻Tech Stack  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="25"> </h1>
 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,ruby,py,php" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,github,git,gitlab" /><br>
