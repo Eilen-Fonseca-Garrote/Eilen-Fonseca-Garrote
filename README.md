@@ -4,7 +4,7 @@
 
 ## _Hello!! my name is Eilen_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="23px"/> <br> 
 ### 🐱I´m a computer engineering student from Cuba who loves to code and especially analyze problems💙 <br>
-###I'm studying computer engineering,4th year at CUJAE💚
+### I'm studying computer engineering,4th year at CUJAE💚
 ### 👩‍💻I'm working as a junior dev at AICA+
 ### 💌I'm open to collaborate in fullstack web projects and I'm specially interested in GameDev projects🎯
 ### _☕Powered by coffee and a passion for coding📈_
