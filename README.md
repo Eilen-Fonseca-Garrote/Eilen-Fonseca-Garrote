@@ -51,16 +51,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-
 ## 🟡 Pacman Contribution Graph
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eilen-Fonseca-Garrote/Eilen-Fonseca-Garrote/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eilen-Fonseca-Garrote/Eilen-Fonseca-Garrote/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Eilen-Fonseca-Garrote/Eilen-Fonseca-Garrote/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Maher-Elmair/Maher-Elmair/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
   <br/>
   <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
-
-
