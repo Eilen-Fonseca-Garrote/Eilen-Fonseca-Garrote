@@ -35,7 +35,9 @@
 
 <h2> 📊 GitHub Stats:  </h2> 
 
-![](https://github-readme-stats.vercel.app/api?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+<br/>
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Eilen-Fonseca-Garrote&theme=radical&hide_border=false)<br/>
 
