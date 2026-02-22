@@ -45,9 +45,7 @@
 
 ## 🏆 GitHub Trophies
 
-Colaboren con el repo que se encarga de llevar estos trofeos a sus readmes para que puedan volver a ser desplegados :)
-
-https://github.com/ryo-ma/github-profile-trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eilen-Fonseca-Garrote)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
