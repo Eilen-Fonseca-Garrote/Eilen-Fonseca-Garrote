@@ -38,10 +38,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 <br/>
 
+<p align="center">
+<a href="https://github.com/Eilen-Fonseca-Garrote">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eilen-Fonseca-Garrote&show_icons=true&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eilen-Fonseca-Garrote&layout=compact&hide=html&langs_count=8&theme=radical"/>
+</a>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Eilen-Fonseca-Garrote&theme=radical&hide_border=false)<br/>
+<div align="center">
+    
+![](https://nirzak-streak-stats.vercel.app/?user=Eilen-Fonseca-Garrote&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uQkKavfX6TER2/giphy.gif" width="250">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uQkKavfX6TER2/giphy.gif" width="250">
+</div>
 
 ## 🏆 GitHub Trophies
 
