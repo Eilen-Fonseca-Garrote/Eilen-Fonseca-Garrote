@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,github,git,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=vue,pinia,tailwindcss,react,next,nest,jest" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,godot,maven,pnpm,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=pycharm,qt,r,webstorm,vscode,eclipse,vs" />
+  <img src="https://skillicons.dev/icons?i=pycharm,qt,r,webstorm,vscode,eclipse,vercel" />
 </div>
 
 
