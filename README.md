@@ -29,14 +29,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,github,git,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=vue,pinia,tailwindcss,react,next,nest,jest" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,godot,maven,pnpm,bash" /><br>
-  <img src="https://skillicons.dev/icons?i=pycharm,qt,r,webstorm,vscode,eclipse,rails" />
+  <img src="https://skillicons.dev/icons?i=pycharm,qt,r,webstorm,vscode,eclipse,vs" />
 </div>
 
 
 <h2> 📊 GitHub Stats:  </h2> 
-
-![](https://github-readme-stats.vercel.app/api?username=Eilen-Fonseca-Garrote&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-<br/>
 
 <p align="center">
 <a href="https://github.com/Eilen-Fonseca-Garrote">
