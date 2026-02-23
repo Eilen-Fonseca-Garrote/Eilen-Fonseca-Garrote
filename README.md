@@ -2,11 +2,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️Games+Enthusiast🎮)
 
-## _Hello!! my name is Eilen_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="23px"/> <br> 
-I´m a computer engineering student from Cuba who loves to code and especially analyze problems💙 <br>
-I'm studying computer engineering,4th year at CUJAE💚
- 👩‍💻I'm working as a junior dev at CETA  S.A improving my skills
-### 💌I'm open to collaborate in fullstack web projects and I'm specially interested in GameDev projects🎯
+## _Hello!! my name is Eilen_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="23px"/> <br>  
+
+I'm a computer engineering student from Cuba,4th year at CUJAE💚 <br>
+
+👩‍💻I'm working as a junior dev at CETA  S.A improving my skills.
+### 💌I'm open to collaborate in fullstack web projects
+### I'm specially interested in GameDev projects🎯 and AI agents🪽
+### 🪭Don't worry just contact me🪻
 ### _☕Powered by coffee and a passion for coding📈_
 ### Dedicated to the craft of building robust and scalable software⚛️.
 <div align="center">
