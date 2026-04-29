@@ -2,6 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️Games+Enthusiast🎮)
 
+[![committers.top badge](https://user-badge.committers.top/cuba/Eilen-Fonseca-Garrote.svg)](https://user-badge.committers.top/cuba/Eilen-Fonseca-Garrote)  
+
+[![committers.top badge](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote.svg)](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote)
+
+
 ## _Hello!! my name is Eilen_ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/800px-Twitter_Verified_Badge.svg.png" height="23px"/> <br>  
 
 I'm a computer engineering student from Cuba,4th year at CUJAE💚 <br>
