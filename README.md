@@ -61,9 +61,6 @@ Dedicated to the craft of building robust and scalable software⚛️.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eilen-Fonseca-Garrote)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/locfaker/locfaker/main/assets/music-wave.svg" width="400" alt="Music Visualizer" />
-</div>
 
 <h2> 💙Random Dev Quote <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>    
     
