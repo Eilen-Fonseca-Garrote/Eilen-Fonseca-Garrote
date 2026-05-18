@@ -11,11 +11,15 @@
 
 I'm a computer engineering student from Cuba,4th year at CUJAE University💚 <br>
 
-👩‍💻I'm working as a junior dev at CETA  S.A improving my skills.<br>
-💌I'm open to collaborate with projects and general coding for learning in teams. 
-I'm specially interested in GameDev projects🎯 and AI agents🪽. <br>
- ☕Powered by coffee and a passion for coding📈 <br>
+👩‍💻 Junior developer at **CETA S.A** — improving my skills every day.
+
+💌 Open to collaborating on projects and general coding to learn as part of a team.  
+I'm especially interested in **GameDev** 🎯 and **AI agents** 🪽.
+
+☕ Powered by coffee and a passion for coding 📈
+
 Dedicated to the craft of building robust and scalable software⚛️.
+
 <div align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjE1cmZnMG0wN2t2cmZiaW00N241N3Rtc2Nmam5weGtmeGNuMjV2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11oFAvGtSN4wW4/giphy.gif" width="400" height="200" />
 </div>
