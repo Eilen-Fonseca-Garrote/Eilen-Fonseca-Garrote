@@ -7,7 +7,7 @@
 [![committers.top badge](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote.svg)](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote)
 
 
-## Hello!! my name is Eilen <br>  
+## Hello!! I'm Eilen <br>  
 
 I'm a computer engineering student from Cuba,4th year at CUJAE💚 <br>
 
