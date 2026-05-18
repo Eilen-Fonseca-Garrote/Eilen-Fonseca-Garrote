@@ -1,6 +1,6 @@
 # <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="55"> About Me:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️Games+Enthusiast🎮)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🐾Eilen+Fonseca+Garrote+🔴🟡🟢;🐈🚀Future+Software+Engineer💻;✨FullStack+Developer📲;🕹️GameDev+Enthusiast🎮)
 
 [![committers.top badge](https://user-badge.committers.top/cuba/Eilen-Fonseca-Garrote.svg)](https://user-badge.committers.top/cuba/Eilen-Fonseca-Garrote)  
 
