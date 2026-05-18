@@ -9,7 +9,7 @@
 
 ## Hello!! I'm Eilen <3  <br>  
 
-👩‍💻 Junior developer at **CETA S.A** — improving my skills every day.
+👩‍💻 Fullstack developer at **CETA S.A** — improving my skills every day.
 
 🎓 4th-year Computer Engineering student at **CUJAE University**, Cuba 💚  
 📝 Currently working on my final undergraduate thesis to earn my degree in Computer Engineering.
