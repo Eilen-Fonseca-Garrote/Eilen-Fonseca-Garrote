@@ -7,12 +7,12 @@
 [![committers.top badge](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote.svg)](https://user-badge.committers.top/cuba_public/Eilen-Fonseca-Garrote)
 
 
-## Hello!! I'm Eilen <br>  
+## Hello!! I'm Eilen <3  <br>  
 
-I'm a computer engineering student from Cuba,4th year at CUJAE💚 <br>
+I'm a computer engineering student from Cuba,4th year at CUJAE University💚 <br>
 
 👩‍💻I'm working as a junior dev at CETA  S.A improving my skills. 
-💌I'm open to collaborate in fullstack web projects. 
+💌I'm open to collaborate. 
 I'm specially interested in GameDev projects🎯 and AI agents🪽. <br>
  ☕Powered by coffee and a passion for coding📈 <br>
 Dedicated to the craft of building robust and scalable software⚛️.
