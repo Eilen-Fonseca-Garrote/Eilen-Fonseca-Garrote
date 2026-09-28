@@ -9,13 +9,10 @@
 
 ## Hello!! I'm Eilen <3  <br>  
 
-👩‍💻 Fullstack developer at **CETA S.A** — improving my skills every day.
+👩‍💻 Fullstack developer at **ETECSA** — improving my skills every day.
 
-🎓 4th-year Computer Engineering student at **CUJAE University**, Cuba 💚  
-📝 Currently working on my final undergraduate thesis to earn my degree in Computer Engineering.
-
+🎓  Software Engineer from **CUJAE University**, Cuba 💚📝 
 💌 Open to collaborating on projects and general coding to learn as part of a team.  
-I'm especially interested in **GameDev** 🎯 and **AI agents** 🪽.
 
 ☕ Powered by coffee and a passion for coding 📈
 Dedicated to the craft of building robust and scalable software⚛️.
