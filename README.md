@@ -58,11 +58,6 @@ Dedicated to the craft of building robust and scalable software⚛️.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndtams2dTFwMXh4cTRqaG9vY255dmR0ZHdkYWRneDVjMmFndndyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uQkKavfX6TER2/giphy.gif" width="250">
 </div>
 
-/* ## 🏆 GitHub Trophies 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eilen-Fonseca-Garrote)](https://github.com/ryo-ma/github-profile-trophy)  */
-
-
 
 <h2> 💙Random Dev Quote <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>    
     
