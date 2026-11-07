@@ -35,8 +35,8 @@ Dedicated to the craft of building robust and scalable software⚛️.
 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,ruby,py,php" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,github,git,gitlab" /><br>
-  <img src="https://skillicons.dev/icons?i=vue,pinia,tailwindcss,react,next,nest,jest" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,godot,maven,pnpm,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=vue,pinia,tailwindcss,react,next,nest,jest,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,godot,maven,pnpm,bash,npm" /><br>
   <img src="https://skillicons.dev/icons?i=pycharm,qt,r,webstorm,vscode,eclipse,vercel" />
 </div>
 
